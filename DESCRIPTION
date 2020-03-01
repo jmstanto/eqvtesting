@@ -1,0 +1,24 @@
+Package: eqvtesting
+Type: Package
+Title: Companion Code for Equivalence Testing in the Organizational Sciences
+Version: 0.1.0
+Authors@R: person("Jeffrey", "Stanton", email="jmstanto@syr.edu", role=c("aut","cre"))
+Description: Code to reproduce the figure and simulation in the article.
+    Also contains example code for various equivalence tests.
+Imports: ggplot2 (>= 3.2.1), 
+         TOSTER (>= 0.3.4), 
+         BayesFactor (>= 0.9.12-4.2),
+         effsize (>= 0.7.8),
+         pwr (>= 1.2-2),
+         BEST (>= 0.5.1),
+         rstudioapi (>= 0.11),
+         stats (>= 3.6.2),
+         graphics (>= 3.6.2),
+         grDevices (>= 3.6.2),
+         methods (>= 3.6.2),
+         utils (>= 3.6.2)
+Depends: R (>= 2.10)
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
