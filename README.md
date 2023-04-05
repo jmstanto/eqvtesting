@@ -1,5 +1,5 @@
 # eqvtesting
-Companion R package for "Evaluating Equivalence and Confirming the Null in the Organizational Sciences" (2021, Organizational Research Methods
+Companion R package for "Evaluating Equivalence and Confirming the Null in the Organizational Sciences" (2021)
 
 Testing and rejecting the null hypothesis is a routine part of quantitative research, but relatively few  researchers prepare for 
 *confirming* the null or, similarly, testing a hypothesis of equivalence (e.g., that two group means are practically identical). There are several
