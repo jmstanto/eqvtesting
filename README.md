@@ -2,8 +2,8 @@
 Companion R package for "Evaluating Equivalence and Confirming the Null in the Organizational Sciences" (2021)
 
 Testing and rejecting the null hypothesis is a routine part of quantitative research, but relatively few  researchers prepare for 
-*confirming* the null or, similarly, testing a hypothesis of equivalence (e.g., that two group means are practically identical). There are several
-statistical testing strategies to accomplish such tests. This R package offers four of those tests and also contains simulator code to generate
+*confirming* the null or, similarly, testing a hypothesis of equivalence (e.g., that two group means are practically equivalent). There are several
+statistical testing strategies to accomplish such tests. This R package offers several of those tests and also contains simulator code to generate
 the guidance shown in this article:
 
 Stanton, J. M. (2021). Evaluating equivalence and confirming the null in the organizational sciences. Organizational Research Methods, 24(3), 491-512.
